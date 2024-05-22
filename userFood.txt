@@ -1,0 +1,9 @@
+Username,Food Name,Food Amount,Date
+p,Apple,2000.0,2024-05-10
+p,Apple,2000.0,2024-05-10
+p,Apple,2000.0,2024-05-10
+p,Apple,2000.0,2024-05-10
+p,Apple,2000.0,2024-05-11
+no,Mango,130.0,2024-05-09
+po,Juice,140.0,2024-05-09
+sa,Mango,331.0,2024-05-09

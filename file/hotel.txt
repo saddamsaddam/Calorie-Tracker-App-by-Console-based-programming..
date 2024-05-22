@@ -1,0 +1,5 @@
+hotelname,location,price
+Hotel_A,Location_A,1234
+Hotel_A,Location_B,1235
+Hotel_B,Location_A,1231
+Hotel_B,Location_B,1236

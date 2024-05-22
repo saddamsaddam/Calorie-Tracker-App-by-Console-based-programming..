@@ -1,0 +1,3 @@
+username,hotelname,location,startdate,enddate,guestnumber
+sa,Hotel_A,Location_A,2023-02-12,2024-03-03,123
+sa,Hotel_B,Location_B,2023-03-04,2025-01-01,344

@@ -1,0 +1,7 @@
+hotelname,username,review,rating
+Hotel A, sa, good,5
+Hotel A, sad, bad,4
+Hotel B, sa, good,5
+Hotel B, sad, bad,4
+Hotel A,sa,Very bad,5
+Hotel_A,sa,very fat,2

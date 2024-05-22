@@ -1,0 +1,3 @@
+origin,destination,price,type
+dhaka,cu,100,flight
+dhaka,cum,100,train

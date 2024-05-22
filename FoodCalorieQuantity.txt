@@ -1,0 +1,4 @@
+Food Name,Food Amount (Gram),Calorie Quantity (calories),Vitamin(Grams),Protein(Gram)
+Apple,1000.0,100.0,100.0,100.0
+Mango,1000.0,100.0,100.0,100.0
+Juice,1000.0,1000.0,1000.0,1000.0

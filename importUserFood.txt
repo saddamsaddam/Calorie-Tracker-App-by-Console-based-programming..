@@ -1,0 +1,5 @@
+Username,Food Name,Food Amount,Date
+p,Apple,2000.0,2024-05-10
+p,Apple,2000.0,2024-05-10
+p,Apple,2000.0,2024-05-10
+p,Apple,2000.0,2024-05-11

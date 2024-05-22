@@ -1,0 +1,6 @@
+username,password,type
+a,a,admin
+sa,saa,normal
+p,p,power
+no,no,normal
+po,po,power
